@@ -1,0 +1,2 @@
+# neo2dataiku
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e1110b5460348baa63b56ed52d2965e)](https://app.codacy.com/app/Spanarchie/neo2dataiku?utm_source=github.com&utm_medium=referral&utm_content=Spanarchian/neo2dataiku&utm_campaign=Badge_Grade_Dashboard)
